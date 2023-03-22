@@ -35,6 +35,7 @@ body {
     font-weight: 700;
     color: #293264;
     /* color: #4D5B9E; */
+    flex: 1;
 }
 
 .answer-box {
@@ -67,6 +68,7 @@ body {
     flex: 1;
     text-overflow: ellipsis;
     white-space: nowrap;
+    /* position: static; */
 }
 
 .options {
